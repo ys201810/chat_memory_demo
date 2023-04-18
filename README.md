@@ -13,4 +13,4 @@ openai_api:
 
 直近2回分の会話内容を保持するchatが可能。
 
-[sample](./images/sample.png)
+![sample](./images/sample.png)
